@@ -1,0 +1,17 @@
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+
+ 
+
+<p>My mother has <span style="color:blue">blue</span> eyes.</p>
+
+a {
+    color: red;
+}
+
+a:hover { 
+    background-color: rgb(85, 34, 167);
+  }
